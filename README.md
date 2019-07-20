@@ -24,3 +24,16 @@ Time: 1hr
 - Blogs
 - Online Tutorials
 - Books
+
+## Prior Knowledge
+Knowing the concepts below is highly receommended before going through the workshot content
+- What is Client
+- What is Server
+- What is HTML
+- What is JavaScript
+- What is Browser
+- What is API
+- What is Operating System
+- What is Android
+- What is IOS
+- How to create a simple web page using HTML and JavaScript
