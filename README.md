@@ -21,6 +21,7 @@ Time: 1hr
 - Resources, billing and free usage
 
 ## Resources and Helpful Content
+Time: 15 min
 - Blogs
 - Online Tutorials
 - Books
